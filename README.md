@@ -1,5 +1,5 @@
-# NewSite
+# Construction Company
 
-Сайт разработан для улучшения качества верстки. 
+Тестовый сайт "Строительная компания". 
 
 Демо-сайта: https://albertov95.github.io/third/index.html
